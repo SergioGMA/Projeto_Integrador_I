@@ -1,0 +1,7 @@
+Django==2.2
+djangorestframework
+django-rest-auth
+django-cors-headers
+requests
+markdown
+django-filter
